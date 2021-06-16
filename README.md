@@ -33,5 +33,5 @@ void loop()
   
  **2. The circuit**  
  
- ![](Screenshot 2021-06-16 073456.png)
+ ![Circuit](images/Screenshot-task1.png)
   
