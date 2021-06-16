@@ -32,6 +32,12 @@ void loop()
   ```  
   
  **2. The circuit**  
+   
+   
  
  ![Circuit](images/Screenshot-task1.png)
+ 
+  **3. The simulation design**  
+  
+   [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/1HIFasACAva)
   
