@@ -33,5 +33,5 @@ void loop()
   
  **2. The circuit**  
  
- ![Alt text](relative/path/to/img.jpg?raw=true "Title")
+ ![](Screenshot 2021-06-16 073456.png)
   
