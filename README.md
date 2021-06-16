@@ -1,5 +1,5 @@
 # An-Arduino-circuit-controlling-5-Servo-motor
-An Arduino circuit controlling 5 Servo-motor simulated in TinkerCad (circuit and code)
+An Arduino circuit controlling 5 Servo-motor to rotate 90° simulated in TinkerCad (circuit and code)
 
  **1. The code**  
 
