@@ -1,5 +1,70 @@
-# An-Arduino-circuit-controlling-5-Servo-motor
-An Arduino circuit controlling 5 Servo-motor to rotate 90° simulated in TinkerCad (circuit and code)
+# An-Arduino-circuit-controlling-5-Servo-motor  
+* A. An Arduino circuit controlling 5 Servo-motor to rotate 90° and then back to 0° via slidebutton simulated in TinkerCad (circuit and code)    
+  
+   **1. The code**  
+
+```ruby
+// C++ code
+//
+# include <Servo.h>
+
+
+Servo A;
+Servo B;
+Servo C;
+Servo D;
+Servo E;
+
+void setup()
+{ 
+  pinMode(13,INPUT);
+   A.attach(11);
+   B.attach(10);
+   C.attach(9);
+   D.attach(6);
+   E.attach(5);
+ 
+}
+
+void loop()
+{ 
+  if (digitalRead(13)==HIGH)
+  { A.write(90);
+   B.write(90);
+   C.write(90);
+   D.write(90);
+   E.write(90);}
+  else
+  {
+   A.write(0);
+   B.write(0);
+   C.write(0);
+   D.write(0);
+   E.write(0); }
+ 
+}
+
+  
+ 
+
+ 
+
+  ```  
+  
+ **2. The circuit**  
+   
+   
+ 
+ ![Circuit](images/Screenshot(207).png)
+ 
+  **3. The simulation design**  
+  
+   [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/hg8uKSnk0X8)     
+     
+       ...  
+       
+     
+* B. An Arduino circuit controlling 5 Servo-motor via potentiometer simulated in TinkerCad (circuit and code)
 
  **1. The code**  
 
@@ -61,5 +126,12 @@ void loop()
  
   **3. The simulation design**  
   
-   [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/1HIFasACAva)
+   [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/1HIFasACAva)   
+     
+            
+                 
+     
+       
+         
+
   
