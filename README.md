@@ -57,7 +57,7 @@ void loop()
    
    
  
- ![Circuit](images/Screenshot-task1.png)
+ ![Circuit](images/Screenshot(206).png)
  
   **3. The simulation design**  
   
