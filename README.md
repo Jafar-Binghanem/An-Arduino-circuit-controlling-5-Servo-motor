@@ -1,7 +1,7 @@
 # An-Arduino-circuit-controlling-5-Servo-motor  
-* A. An Arduino circuit controlling 5 Servo-motor to rotate 90° and then back to 0° via slidebutton simulated in TinkerCad (circuit and code)    
+**Task 1,2.** An Arduino circuit controlling 5 Servo-motor to rotate 90° and then back to 0° via slidebutton simulated in TinkerCad (circuit and code)    
   
-   **1. The code**  
+   **A. The code**  
 
 ```ruby
 // C++ code
@@ -51,22 +51,22 @@ void loop()
 
   ```  
   
- **2. The circuit**  
+ **B. The circuit**  
    
    
  
  ![Circuit](images/Screenshot(207).png)
  
-  **3. The simulation design**  
+  **C. The simulation design**  
   
    [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/hg8uKSnk0X8)     
      
        ...  
        
      
-* B. An Arduino circuit controlling 5 Servo-motor via potentiometer simulated in TinkerCad (circuit and code)
+**Task 3.** An Arduino circuit controlling 5 Servo-motor via potentiometer simulated in TinkerCad (circuit and code)
 
- **1. The code**  
+ **A. The code**  
 
 ```ruby
 // C++ code
