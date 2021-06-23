@@ -118,13 +118,13 @@ void loop()
 }
   ```  
   
- **2. The circuit**  
+ **B. The circuit**  
    
    
  
  ![Circuit](images/Screenshot(206).png)
  
-  **3. The simulation design**  
+  **C. The simulation design**  
   
    [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/1HIFasACAva)   
      
